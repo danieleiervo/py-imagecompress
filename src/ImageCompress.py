@@ -7,8 +7,8 @@ config = {
     "maxWidth": 1280,
     "maxHeight": 720,
     "quality": 75,
-    "imgDir": "IMG/",
-    "compDir": "comp/"
+    "imgDir": "src/IMG/",
+    "compDir": "src/Compressed/"
 }
 
 def compress(img):
