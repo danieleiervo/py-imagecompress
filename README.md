@@ -12,7 +12,7 @@ A quick script in Python to handle multiple images compression using Pillow libr
  - Set configuration variables as needed:
  **maxWidth** and **maxHeight** handle the *max resolution* the images will have after compression;
  **quality** handles the *quality of the compression*: keep this between 70 and 90 for best results;
- **imgDirectory** and **compDirectory** are the *relative paths* for the directory which contains images and the directory which will contain compressed images.
+ **imgDir** and **compDir** are the *relative paths* for the directory which contains images and the directory which will contain compressed images.
  
  - **Start the script** and watch for results on selected compression directory!
 
